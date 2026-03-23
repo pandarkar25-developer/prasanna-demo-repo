@@ -10,4 +10,4 @@ demo for repo making
 
 
 
-author  Pandarkar Prasanna
+author  Prasanna
